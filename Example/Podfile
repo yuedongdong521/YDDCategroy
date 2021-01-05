@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YDDCategroy_Example' do
+  pod 'YDDCategroy', :path => '../'
+
+  target 'YDDCategroy_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
