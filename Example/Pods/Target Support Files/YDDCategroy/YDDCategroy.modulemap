@@ -1,0 +1,6 @@
+framework module YDDCategroy {
+  umbrella header "YDDCategroy-umbrella.h"
+
+  export *
+  module * { export * }
+}

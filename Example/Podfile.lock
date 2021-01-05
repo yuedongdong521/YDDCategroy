@@ -1,0 +1,16 @@
+PODS:
+  - YDDCategroy (0.1.0)
+
+DEPENDENCIES:
+  - YDDCategroy (from `../`)
+
+EXTERNAL SOURCES:
+  YDDCategroy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YDDCategroy: e1bb40f342429b5bf1bd09f615f02f090f433a36
+
+PODFILE CHECKSUM: 2fd5395aa34b5c8159c68ab47762c876a99d1524
+
+COCOAPODS: 1.9.3
